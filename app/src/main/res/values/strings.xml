@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MathTest</string>
+    <string name="hint">Type your answer</string>
+    <string name="q1">Question1\n _ + _ = 10 ?</string>
+    <string name="q1_Checkbox1">A : 1 + 9</string>
+    <string name="q1_Checkbox2">B : 4 + 7</string>
+    <string name="q1_Checkbox3">C : 5 + 5</string>
+    <string name="q1_Checkbox4">D : 6 + 3</string>
+    <string name="q2_radiobutton1">A : 3</string>
+    <string name="q2_radiobutton2">B : 4</string>
+    <string name="q2_radiobutton3">C : 5</string>
+    <string name="q2_radiobutton4">D : 6</string>
+    <string name="q2">Question2\n 2 + 2 = ?</string>
+    <string name="q3">Question3\n 3 + 3 = ?</string>
+    <string name="q4">Question4\n 4 + 4 = ?</string>
+    <string name="q5">Question5\n 5 + 5 = ?</string>
+    <string name="q6">Question6\n 6 + 6 = ?</string>
+    <string name="check">Check</string>
+</resources>
